@@ -1,0 +1,40 @@
+baseURL: https://www.checkbook.cash/
+languageCode: en-us
+title: CheckBook.cash
+theme: PaperMod
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: CheckBook.cash
+    description: "Promote Blockchain Cheques"
+    DateFormat: "January 2, 2006"
+    defaultTheme: auto # dark, light
+    disableThemeToggle: false
+
+    assets:
+        favicon: "/favicon.svg"
+
+    homeInfoParams:
+        Title: "Welcome to CheckBook.cash!"
+        Content: >
+            🌟Blockchain cheque is a new airdrop tool which borrowed some features from paper cheques. We implement it as a DApp on smartBCH, hoping it to be a useful tool as part of smartBCH's infrastructure.
+
+            - 🌟We would like to invite a lot people to use blockchain cheques on smartBCH. The means to do it, as you can guess, is airdropping some coins to the people, through blockchain cheques.
+
+            - 🌟This site promotes the adoption of blockchain cheques. The progress of airdropping is traced here.
+
+menu:
+    main:
+        - identifier: donations
+          name: donations
+          url: https://www.checkbook.cash/donations.html
+        - identifier: sources
+          name: sources
+          url: https://github.com/write-a-check/write-a-check
+        - identifier: spec
+          name: spec
+          url: https://docs.smartbch.org/smartbch/smartbch-evolution-proposals-seps/sep-18
+        - identifier: dapp
+          name: dapp
+          url: https://app.checkbook.cash
+
