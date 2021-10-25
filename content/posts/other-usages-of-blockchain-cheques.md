@@ -13,7 +13,7 @@ We are not 100% confident that the blockchain cheque is good enough in the follo
 Tipping is one of the basic usages of cryptocurrencies. When you post an excellent video or article online, you attach your address onto the web page and ask the audiences to tip you some cryptocurrency. With blockchain cheques,  you can attach a URL like following to the web page for tipping:
 
 ```
-https://app.checkbook.cash/write?coin=0x265bD28d79400D55a1665707Fa14A72978FA6043&to=0x05dd8925dbeF0aeCeC5B68032A0691076A92Ea41&amount=2&tag=20211011A
+https://www.checkbook.cash/app/write?coin=0x265bD28d79400D55a1665707Fa14A72978FA6043&to=0x05dd8925dbeF0aeCeC5B68032A0691076A92Ea41&amount=2&tag=20211011A
 ```
 
 After clicking this link, an audience is led to a page of app.checkbook.cash, the token's address, the receiver's address and the amount is already filled automatically. The audience can adjust the amount and then click "submit" to finish the tipping. The tag field is also filled, which can help you identify which video or article prompts this audience to tip you.

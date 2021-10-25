@@ -10,7 +10,7 @@ Why do we design such a DApp? Because we believe some features of paper checks c
 
 Second, cheques have deadlines. The payees must accept the cheques before the deadline, or the cheques can be revoked by the payer. If the payees are not interested, the payer can take back the tokens in expired cheques. Thus, no tokens are wasted.
 
-Last but not least, cheques enables more communications. A tag with clear text (non-encrypted) can be attached to a cheque, explaining the reason of airdrop. If the payee's wallet support encryption (currently only MetaMask browser extension supports it), you can also send memos to her, if she allows memos. Unlike tags, memos have no length limit,  and are always encrypted for privacy. Using memos, you can guide a payee to try some DApps for further airdrop.
+Last but not least, cheques enables more communications. A tag with clear text (non-encrypted) can be attached to a cheque, explaining the reason of airdrop. If the payee's wallet support encryption (currently only MetaMask browser extension supports it), you can also send memos to her. Unlike tags, memos have no length limit, and can be encrypted for privacy. Using memos, you can guide a payee to try some DApps for further airdrop.
 
 You can also require the payee to enter a predefined secret tag when accepting a cheque. To figure out what the secret tag is, the payee must follow the memo's guide, reading some document, receiving some e-mail, or chatting with some telegram robot. Thus you can buy the payee's attention with some tokens.
 

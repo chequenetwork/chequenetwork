@@ -15,13 +15,15 @@ params:
         favicon: "/favicon.svg"
 
     homeInfoParams:
-        Title: "Welcome to CheckBook.cash!"
+        Title: Welcome the *[New CheckBook DApp](./app)*!
         Content: >
             🌟Blockchain cheque is a new airdrop tool which borrowed some features from paper cheques. We implement it as a DApp on smartBCH, hoping it to be a useful tool as part of smartBCH's infrastructure.
 
             - 🌟We would like to invite a lot people to use blockchain cheques on smartBCH. The means to do it, as you can guess, is airdropping some coins to the people, through blockchain cheques.
 
             - 🌟This site promotes the adoption of blockchain cheques. The progress of airdropping is traced here.
+
+            - 🌟We just released a *[new version of CheckBook DApp](./app)* which is more beautiful and easier to use.
 
 menu:
     main:
@@ -31,10 +33,17 @@ menu:
         - identifier: sources
           name: sources
           url: https://github.com/write-a-check/write-a-check
+        - identifier: audit
+          name: audit
+          url: https://github.com/write-a-check/write-a-check/tree/main/SecurityAuditReport
         - identifier: spec
           name: spec
           url: https://docs.smartbch.org/smartbch/smartbch-evolution-proposals-seps/sep-18
-        - identifier: dapp
-          name: dapp
+        - identifier: app(old)
+          name: app(old)
           url: https://app.checkbook.cash
+        - identifier: app
+          name: app
+          url: ./app
 
+            
