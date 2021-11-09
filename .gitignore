@@ -1,2 +1,5 @@
 public
 *.swp
+airdrop_page/addr_dat2
+airdrop_page/node_modules
+airdrop_page/*.txt
