@@ -13,3 +13,9 @@ The check's $CATS amount is decided by a pseudo-random algorithm: pick a random 
 We prepared 5 Million $CATS for this event. Checks will be kept given out until all of these $CATS are used out. Before that, we may change the value of N according to the price of $CATS.
 
 Good Luck in getting your checks!
+
+-------------
+
+Updated on Thu Nov 4 14:08:18 UTC 2021
+
+Since the tranffic through wagon.cash is too busy, its maintainer is very hard to scale it up to support so many cross-chain transfers. We have to add one more rule to reduce the traffic: a cheque is only sent when the transfer amount is no less than 0.1 BCH. Sorry for any inconvenience!
