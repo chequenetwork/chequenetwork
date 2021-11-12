@@ -19,3 +19,10 @@ Good Luck in getting your checks!
 Updated on Thu Nov 4 14:08:18 UTC 2021
 
 Since the tranffic through wagon.cash is too busy, its maintainer is very hard to scale it up to support so many cross-chain transfers. We have to add one more rule to reduce the traffic: a cheque is only sent when the transfer amount is no less than 0.1 BCH. Sorry for any inconvenience!
+
+
+-------------
+
+Updated on Fri Nov 12 01:37:49 UTC 2021
+
+Since wagon.cash halts its operation. This event pauses.

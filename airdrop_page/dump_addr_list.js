@@ -28,7 +28,7 @@ async function run(fileName, targetNum) {
 		}
 	}
 
-	//console.log("len", addrList.length)
+	console.log("len", addrList.length)
 	
 	addrList.sort(function(a,b) {return compareAddr(a,b)})
 	//for(var i=0; i<addrList.length; i++) {
